@@ -1,2 +1,3 @@
-# Hybrid-Cloud-Engineer
-Udacity Hybrid Cloud Engineer Projects
+# Udacity Hybrid Cloud Engineer Projects
+
+## Project 1 - Private Cloud Web Application Infrastructure
